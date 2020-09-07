@@ -43,3 +43,5 @@ Total Putting - (TOTAL): Total Putting is computed using 6 putting stats Putting
 - There are two versions of the data file
     * One version has the data vertically, while the other has the data horizontally
     * 
+- There are 2,740,403 rows of data
+- The data represents 9 years of PGA Tour Golf statistical data
