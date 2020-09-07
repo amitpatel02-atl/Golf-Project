@@ -13,3 +13,12 @@ We want to know if the constant focus on driver technology has left the short-ga
    * `Hypothesis - Driving distance and accuracy has improved over the years, with an accompanying increase in short-game performance (<100 yards including putting)`
 
    * `Null Hypothesis - Driving distance and accuracy has improved over the years, while short-game performance (<100 yards including putting) has remained the same`
+
+## What are we looking for?
+
+### DRIVING PERFORMANCE STATS
+Driving Distance - (AVG.): The average number of yards per measured drive. These drives are measured on two holes per round. Care is taken to select two holes which face in opposite directions to counteract the effect of wind. Drives are measured to the point at which they come to rest regardless of whether they are in the fairway or not. (101)
+
+Total Driving - (TOTAL): Total Driving is computed by totaling a player’s rank in both driving distance and driving accuracy.
+
+Total Driving - (TOTAL) = “Total Driving - (DISTANCE RANK)” + “Total Driving - (ACCURACY RANK)”
