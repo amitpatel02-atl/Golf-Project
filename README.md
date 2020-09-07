@@ -40,3 +40,6 @@ Total Putting - (TOTAL): Total Putting is computed using 6 putting stats Putting
 - Our data source is “PGA Tour Golf 2010-2018 Data” from Kaggle.com
     * The data is described as “Every statistic recorded on the PGA Tour from the 2010 to 2018 season”
     * URL: https://www.kaggle.com/bradklassen/pga-tour-20102018-data/version/4
+- There are two versions of the data file
+    * One version has the data vertically, while the other has the data horizontally
+    * 
