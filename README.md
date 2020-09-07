@@ -33,3 +33,5 @@ Short Game Rating - (RATING): An aggregate score based on several ‘Around the 
 
 ### PUTTING PERFORMANCE STATS
 Putting Average - (AVG): The average number of putts per green in regulation. By using greens hit in regulation, we are able to eliminate the effects of chipping close and one-putting in the computation. (104)
+
+Total Putting - (TOTAL): Total Putting is computed using 6 putting stats Putting from 3-5', Putting from 5-10', Putting from 10-15', Putting from 15-20', Putting from 20-25' and Three Putt Avoidance from > 25'. Each statistic is given a numerical weighting based on the frequency of putts attempted from each distance. The players rank in each of the statistics used is multiplied by the corresponding weigh factor, totalled, and divided by the number of statistics used to produce the Total Putting Value. (2428) 
