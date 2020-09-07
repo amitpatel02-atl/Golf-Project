@@ -45,3 +45,8 @@ Total Putting - (TOTAL): Total Putting is computed using 6 putting stats Putting
     * 
 - There are 2,740,403 rows of data
 - The data represents 9 years of PGA Tour Golf statistical data
+
+## What information did we find throughout our project?
+By the end of the project we found that the information we were able to collect did in fact line up with out null hypoethesis. Driving distance was able to improve from 2016-2018. With smash factor we concluded that technology has impacted this. If we had more time for the project we would have explored this further more. For short game we did not see any improvement much along with proximity to hole and putting average. 
+
+- - -
