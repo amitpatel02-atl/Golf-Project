@@ -28,3 +28,5 @@ Proximity to Hole (ARG): The average distance to the hole (in feet) after hittin
 Of interest to us:
 * `Proximity to Hole (ARG) - (AVG DTP)`
     * `Proximity to Hole (ARG) - (SCRAMBLING RANK)`
+
+Short Game Rating - (RATING): An aggregate score based on several ‘Around the Green’ statistics used to measure a player’s performance 100 yards and in (not including putting). The statistics used to compute this are: Scrambling, Proximity to the Hole from sand, PTH from Rough, PTH from fringe, PTH from less than 100 yards and Greens in Regulation from less than 100 yards. (87)
