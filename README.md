@@ -30,3 +30,6 @@ Of interest to us:
     * `Proximity to Hole (ARG) - (SCRAMBLING RANK)`
 
 Short Game Rating - (RATING): An aggregate score based on several ‘Around the Green’ statistics used to measure a player’s performance 100 yards and in (not including putting). The statistics used to compute this are: Scrambling, Proximity to the Hole from sand, PTH from Rough, PTH from fringe, PTH from less than 100 yards and Greens in Regulation from less than 100 yards. (87)
+
+### PUTTING PERFORMANCE STATS
+Putting Average - (AVG): The average number of putts per green in regulation. By using greens hit in regulation, we are able to eliminate the effects of chipping close and one-putting in the computation. (104)
