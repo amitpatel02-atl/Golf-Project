@@ -23,7 +23,7 @@ Total Driving - (TOTAL): Total Driving is computed by totaling a player’s rank
 
 Total Driving - (TOTAL) = “Total Driving - (DISTANCE RANK)” + “Total Driving - (ACCURACY RANK)”
 
-Image 1.PNG
+![Image 1](Images/Image 1.PNG)
 
 ### SHORT GAME PERFORMANCE STATS
 Proximity to Hole (ARG): The average distance to the hole (in feet) after hitting the ball onto the putting surface from around the green. Only those shots determined by a laser will be included. (Note: ‘Around the green’ indicates the player is within 30 yards of the edge of the green). (374)
